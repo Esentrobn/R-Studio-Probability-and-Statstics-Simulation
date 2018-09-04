@@ -4,3 +4,5 @@ Probability of drawing 2 balls 10, 100 & 1000 times for chosen randomly are of t
 
 simulation the process of generating pairs of (X,Y) values estimation of the probability that Y-X is at least half (Y = 2X).
  1000x Sim
+
+ Markov chain based weather pattern probablity project
